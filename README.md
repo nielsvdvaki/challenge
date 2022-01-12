@@ -1,6 +1,6 @@
 # Welcome to Niels' engineering challenge!
 
-The project has two applications that are required to be running in order to use it. To start, please run the following
+The project has two applications that are required to be running in order to use it. To install, please run the following
 
 ```shell
 npm run install
