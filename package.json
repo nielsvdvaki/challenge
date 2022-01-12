@@ -1,0 +1,13 @@
+{
+  "name": "engineering_challange",
+  "version": "1.0.0",
+  "description": "The project has two applications that are required to be running in order to use it. To start, please",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd server && npm install && cd ../frontend && npm install",
+    "deploy": "cd server && npm run start & cd ./frontend && npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
